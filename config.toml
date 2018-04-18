@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://marthawohlfeil.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Martha Wohlfeil's Website"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,8 +50,8 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Martha Wohlfeil"
+  role = "Graduate Student in Ecology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
